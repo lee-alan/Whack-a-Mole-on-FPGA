@@ -1,6 +1,8 @@
 # Whack-a-Mole from Verilog
 An FPGA version of Whack-a-Mole! Without a computer, users can plug in their DE1-SoC Intel FPGAs to their monitors and play an amazing game of Whack-a-Mole! Users can move hit Moles with the four button keys on the FPGA. The user can collected points for every Mole hit and loses a point for every mole missed. But the user needs to be careful; the game will be lost when he hits a special Bomb Mole! This project was made as a final course project for CSC B58: Computer Organization.
 
+![](images/whack-a-mole.jpg)
+
 ## Overview of the project
 This project was made with Verilog, a hardware description language, which was used to model the electronic systems on the FPGA.
 
@@ -20,8 +22,7 @@ The following instructions will get you run a copy of the project on Intel's DE1
 	http://dl.altera.com/17.0/?edition=lite.
 
 	This download includes Modelsim-Altera.
-	Downloading the combined version of the files is easier, but if you want to go the “Individual Files” route and you want to save some disk space, you can uncheck all the device families except Cyclone V; see image below:
-
+	Downloading the combined version of the files is easier, but if you want to go the “Individual Files” route and you want to save some disk space, you can uncheck all the device families except Cyclone V.
 
 
 ### Compiling and running the project on the FPGA:
