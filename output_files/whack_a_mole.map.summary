@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Wed Apr 04 18:56:50 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : whack_a_mole
+Top-level Entity Name : whack_a_mole
+Family : Cyclone IV E
+Total logic elements : 535
+    Total combinational functions : 520
+    Dedicated logic registers : 168
+Total registers : 168
+Total pins : 118
+Total virtual pins : 0
+Total memory bits : 57,600
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 1
